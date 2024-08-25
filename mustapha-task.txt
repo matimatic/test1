@@ -11,11 +11,14 @@ DATE	TOTAL VENTES 	TPE 	BANQUE	ESPECES	BENEFICE NET
           8 JAN 2020				0	0
           9 JAN 2020				0	0
           10 JAN 2020				0	0
-          11 JAN 2020				0	0
+         
+------------------------------------------------
+ 11 JAN 2020				0	0
           12 JAN 2020				0	0
           13 JAN 2020				0	0
           14 JAN 2020				0	0
           15 JAN 2020				0	0
+------------------------------------------------
           16 JAN 2020				0	0
           17 JAN 2020				0	0
           18 JAN 2020				0	0
@@ -33,3 +36,4 @@ DATE	TOTAL VENTES 	TPE 	BANQUE	ESPECES	BENEFICE NET
           30 JAN 2020				0	0
           31 JAN 2020				0	0
 TOTAL				3970	794
+git status
